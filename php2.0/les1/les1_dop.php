@@ -19,7 +19,7 @@ echo $$c.'<br>';
 */
 $a = "hello"; //появилась переменная hello!
 $$a = "world"; // $hello = world!
-$$$a = "this ";
+$$$a = "this_";
 $$$$a = "is";
 $$$$$a = "holy hierarchy";
 
